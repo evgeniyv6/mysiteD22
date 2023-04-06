@@ -1,6 +1,6 @@
 # myself custom
 .idea
-
+**/mysite/staticfiles
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
